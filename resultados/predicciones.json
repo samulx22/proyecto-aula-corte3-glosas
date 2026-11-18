@@ -1,0 +1,2132 @@
+[
+ {
+  "id": 1,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 2,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 3,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 4,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 5,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 6,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 7,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 8,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 9,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 10,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 11,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 12,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 13,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 14,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 15,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 16,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 17,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 18,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 19,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 20,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 21,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 22,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 23,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 24,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 25,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 26,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 27,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 28,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 29,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 30,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 31,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 32,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 33,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 34,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 35,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 36,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 37,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 38,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 39,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 40,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 41,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 42,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 43,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 44,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 45,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 314,
+  "tokens_salida": 30,
+  "modelo": "tesseract-5.4-spa+reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 46,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 47,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 48,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 49,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 50,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 51,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 52,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 53,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 54,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 55,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 56,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 57,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 58,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 59,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 60,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 61,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 62,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 63,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 64,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 65,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 66,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 67,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 68,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 69,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 70,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 71,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 72,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 73,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 74,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 75,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 76,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 77,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 78,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 79,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 80,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 81,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 82,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 83,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 84,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 85,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 86,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 87,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 88,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 89,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 90,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 91,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 92,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 93,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 94,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 95,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 96,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 97,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 98,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 305,
+  "tokens_salida": 32,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 99,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 100,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 101,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 312,
+  "tokens_salida": 30,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 102,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 103,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 104,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 105,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 106,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 107,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 108,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 109,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 110,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 111,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 112,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 113,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 114,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 115,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 116,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 117,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 118,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 119,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 120,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 121,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 122,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 123,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 124,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 125,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 126,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 127,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 128,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 129,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 130,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 131,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 132,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 133,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 134,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 135,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 136,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 137,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 138,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 139,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 140,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 141,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 142,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 143,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 144,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 145,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 146,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 147,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 148,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 149,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 150,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 151,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 152,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 153,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 154,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 155,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 156,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 157,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 158,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 159,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 160,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 161,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 162,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 163,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 164,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 165,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 166,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 167,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 168,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 169,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 170,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 171,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 172,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 173,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 174,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 175,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 176,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 177,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 178,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 179,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 180,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 181,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 182,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 183,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 184,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 185,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 186,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 187,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 188,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 189,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 190,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 191,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 192,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 193,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 306,
+  "tokens_salida": 32,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 194,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 195,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 196,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 197,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 198,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 199,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 200,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 201,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 202,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 311,
+  "tokens_salida": 29,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 203,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 204,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 205,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 206,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 207,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 306,
+  "tokens_salida": 30,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 208,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 209,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 210,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 211,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 212,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 213,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 214,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 215,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 319,
+  "tokens_salida": 32,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 216,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 217,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 218,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 312,
+  "tokens_salida": 30,
+  "modelo": "tesseract-5.4-spa+reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 219,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 220,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 221,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 222,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 223,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 224,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 225,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 226,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 227,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 228,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 229,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 230,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 231,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 232,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 233,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 234,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 235,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 236,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 237,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 238,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 292,
+  "tokens_salida": 31,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 239,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 240,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 241,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 242,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 243,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 244,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 245,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 246,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 247,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 248,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 249,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 250,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 251,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 252,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 253,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 284,
+  "tokens_salida": 25,
+  "modelo": "tesseract-5.4-spa+reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 254,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 255,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 256,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 257,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 258,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 259,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 260,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 261,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 262,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 263,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 264,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 265,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 266,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 267,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 268,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 269,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 270,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 271,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 272,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 273,
+  "riesgo": "revisar",
+  "causa": "tarifa_contrato",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 274,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 275,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 276,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 277,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 278,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 279,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 280,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 281,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 282,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 283,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 284,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 307,
+  "tokens_salida": 30,
+  "modelo": "reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 285,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 286,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 297,
+  "tokens_salida": 25,
+  "modelo": "tesseract-5.4-spa+reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 287,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 288,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 289,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 290,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 291,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 292,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 293,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 294,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 295,
+  "riesgo": "revisar",
+  "causa": "falta_soporte",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 296,
+  "riesgo": "revisar",
+  "causa": "cie10_no_coincide",
+  "tokens_entrada": 298,
+  "tokens_salida": 33,
+  "modelo": "tesseract-5.4-spa+reglas-v1+qwen2.5:3b-q4_K_M"
+ },
+ {
+  "id": 297,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "tesseract-5.4-spa+reglas-v1"
+ },
+ {
+  "id": 298,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 299,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ },
+ {
+  "id": 300,
+  "riesgo": "bajo",
+  "tokens_entrada": 0,
+  "tokens_salida": 0,
+  "modelo": "reglas-v1"
+ }
+]

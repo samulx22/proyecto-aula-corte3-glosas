@@ -1,0 +1,10 @@
+{
+ "equipo_id": 9,
+ "nombre": "Samuel Siachoque",
+ "integrantes": [
+  "Samuel Siachoque"
+ ],
+ "limite_equipos": 60,
+ "aviso": "guarda el token: no se puede recuperar; la API no lo vuelve a mostrar.",
+ "creado_en": "2026-11-18T13:02:27.025834+00:00"
+}

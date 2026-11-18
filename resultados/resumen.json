@@ -1,0 +1,13 @@
+{
+ "historias": 300,
+ "revisar": 30,
+ "por_causa": {
+  "cie10_no_coincide": 13,
+  "falta_soporte": 9,
+  "tarifa_contrato": 8
+ },
+ "pasaron_por_ocr": 60,
+ "pasaron_por_llm": 13,
+ "tokens_entrada": 3963,
+ "tokens_salida": 389
+}

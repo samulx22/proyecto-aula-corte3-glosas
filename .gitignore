@@ -1,0 +1,5 @@
+.env
+datos/
+tessdata/
+tokenizador/
+__pycache__/

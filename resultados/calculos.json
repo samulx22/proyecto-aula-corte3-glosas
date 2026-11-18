@@ -1,0 +1,136 @@
+{
+ "palabras_mes": 63000000,
+ "A_todo_al_LLM": {
+  "entrada_mes": 120339000,
+  "salida_mes": 1800000,
+  "si_fuera_ingles_entrada": 93141641,
+  "promedio_dia_30": {
+   "entrada": 4011300,
+   "salida": 60000
+  },
+  "pico_dia_si_se_procesa_al_radicar": {
+   "entrada": 14440680,
+   "salida": 216000
+  },
+  "factor_pico": 3.6,
+  "costo_usd_mes": {
+   "api_haiku_5_5": 12.93,
+   "api_sonnet_5_5": 258.68,
+   "gpu_aws_24x7_us_east_1": 587.5,
+   "gpu_aws_24x7_sa_east_1": 998.64,
+   "gpu_horas_computo_mes": 14.6,
+   "gpu_horas_pico_dia": 1.75
+  }
+ },
+ "B_diseno": {
+  "historias_llm_mes": 2250.0,
+  "entrada_mes": 2843820,
+  "salida_mes": 270000,
+  "promedio_dia_30": {
+   "entrada": 94794,
+   "salida": 9000
+  },
+  "pico_dia_si_se_procesa_al_radicar": {
+   "entrada": 341258,
+   "salida": 32400
+  },
+  "factor_pico": 3.6,
+  "costo_usd_mes": {
+   "api_haiku_5_5": 0.42,
+   "api_sonnet_5_5": 8.39,
+   "gpu_aws_24x7_us_east_1": 587.5,
+   "gpu_aws_24x7_sa_east_1": 998.64,
+   "gpu_horas_computo_mes": 0.5,
+   "gpu_horas_pico_dia": 0.06
+  },
+  "gpu_horario_horas_mes": 80,
+  "gpu_horario_usd_mes": 64.38
+ },
+ "memoria": {
+  "pesos_GB": {
+   "FP16/BF16": 15.22,
+   "FP8/INT8": 7.61,
+   "INT4 (AWQ/GPTQ)": 3.81
+  },
+  "kv_bytes_por_token": 57344,
+  "ctx_B_hosp_tokens": 2644,
+  "kv_B_hosp_GB": 0.152,
+  "ctx_A_hosp_tokens": 28685,
+  "kv_A_hosp_GB": 1.64,
+  "elegido_FP8_16_secuencias_B_GB": 11.54,
+  "elegido_FP8_4_secuencias_A_GB": 15.69
+ },
+ "roi": {
+  "perdida_definitiva_mes": 720000000.0,
+  "perdida_por_causa": {
+   "cie10": 324000000.0,
+   "soporte": 216000000.0,
+   "tarifa": 180000000.0
+  },
+  "atacable_mes": {
+   "cie10": 259200000.0,
+   "soporte": 108000000.0,
+   "tarifa": 125999999.99999999
+  },
+  "supuestos": {
+   "atacable": {
+    "cie10": 0.8,
+    "soporte": 0.5,
+    "tarifa": 0.7
+   },
+   "deteccion_base": {
+    "cie10": 0.7,
+    "soporte": 0.8,
+    "tarifa": 0.95
+   },
+   "correccion": 0.9
+  },
+  "ahorro_base_mes": {
+   "cie10": 163296000,
+   "soporte": 77760000,
+   "tarifa": 107730000
+  },
+  "ahorro_base_total": 348786000,
+  "ahorro_pesimista_mes": {
+   "cie10": 81648000,
+   "soporte": 38880000,
+   "tarifa": 53865000
+  },
+  "ahorro_pesimista_total": 174393000,
+  "costo_mes_usd": {
+   "ec2_g6_horario": 64.38,
+   "ebs_s3_kms_logs": 60.0,
+   "vpn_site_to_site": 36.5
+  },
+  "costo_mes_cop": {
+   "aws": 531211,
+   "segundo_isp": 1500000,
+   "soporte_externo_mlops": 6000000
+  },
+  "costo_mes_total": 8031211,
+  "inversion_inicial": {
+   "desarrollo_integracion_3_meses": 75000000,
+   "capacitacion_ti_auditores": 10000000,
+   "asesoria_legal_proteccion_datos": 15000000
+  },
+  "inversion_total": 100000000,
+  "neto_base": 340754789,
+  "meses_recuperacion_base": 0.29,
+  "roi_anual_base": 39.89,
+  "neto_pesimista": 166361789,
+  "meses_recuperacion_pesimista": 0.6,
+  "roi_anual_pesimista": 18.96,
+  "sensibilidad_facturacion_api": {
+   "facturacion": 8385849000,
+   "ahorro_pesimista": 81246298,
+   "meses_recuperacion_pesimista": 1.37
+  }
+ },
+ "auditores": {
+  "capacidad_dia": 720,
+  "capacidad_mes_22_dias": 15840,
+  "historias_pico_dia": 1800.0,
+  "sobrecarga_pico": 2.5,
+  "costo_auditores_mes": 36000000
+ }
+}

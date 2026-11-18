@@ -1,0 +1,24 @@
+{
+ "tokenizador": "Qwen2.5-7B-Instruct tokenizer.json (Hugging Face, consultado 2026-11-18)",
+ "corta": {
+  "historias": 180,
+  "palabras_prom": 1548,
+  "tokens_prom": 3046,
+  "tokens_por_palabra": 1.968
+ },
+ "hospitalizacion": {
+  "historias": 60,
+  "palabras_prom": 5072,
+  "tokens_prom": 9571,
+  "tokens_por_palabra": 1.887
+ },
+ "paralelo": {
+  "es_palabras": 133,
+  "es_tokens": 305,
+  "es_tok_por_palabra": 2.293,
+  "en_palabras": 132,
+  "en_tokens": 236,
+  "en_tok_por_palabra": 1.788,
+  "impuesto_mismo_contenido": 1.292
+ }
+}
